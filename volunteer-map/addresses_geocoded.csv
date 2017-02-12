@@ -1,0 +1,77 @@
+"","Timestamp","City","State/Province","Country","Bonus question:  Have you made a PR to our GitHub org yet?","X6","full_address","lon","lat"
+"1","2/4/2017 12:34:51","Nashville","Tennessee","USA","Yes, for a project",NA,"Nashville, Tennessee, USA",-86.7816016,36.1626638
+"2","2/4/2017 12:35:18","Oak Ridge","TN","USA","Yes, for a project",NA,"Oak Ridge, TN, USA",-84.2696449,36.0103561
+"3","2/4/2017 12:36:38","Cypress","Texas","United States","No",NA,"Cypress, Texas, United States",-95.6937856,29.9716905
+"4","2/4/2017 12:37:18","Washington DC","DC","USA","Yes, for a project",NA,"Washington DC, DC, USA",-77.0368707,38.9071923
+"5","2/4/2017 12:39:22","New York","NY","USA","Yes, for a project",NA,"New York, NY, USA",-74.0059413,40.7127837
+"6","2/4/2017 12:39:45","Austin","Texas","United States of America","No",NA,"Austin, Texas, United States of America",-97.7430608,30.267153
+"7","2/4/2017 12:41:26","Houston","Texas","United States","Yes, for a project",NA,"Houston, Texas, United States",-95.3698028,29.7604267
+"8","2/4/2017 12:44:31","Chicago","Illinois","USA","No",NA,"Chicago, Illinois, USA",-87.6297982,41.8781136
+"9","2/4/2017 12:47:06","Madrid",NA,"Spain","No",NA,"Madrid, NA, Spain",-3.7037902,40.4167754
+"10","2/4/2017 12:53:51","Olympia","WA","United States","Yes, for a project",NA,"Olympia, WA, United States",-122.9006951,47.0378741
+"11","2/4/2017 12:56:17","Washington, D.C.","D.C.","US","Yes, for a project",NA,"Washington, D.C., D.C., US",-77.0368707,38.9071923
+"12","2/4/2017 12:57:56","Syracuse","NY","USA","Yes, for a project",NA,"Syracuse, NY, USA",-76.1474244,43.0481221
+"13","2/4/2017 13:00:39","Cambridge",NA,"United Kingdom","No",NA,"Cambridge, NA, United Kingdom",0.1149085,52.2042666
+"14","2/4/2017 13:25:41","Naperville","IL","United States","No",NA,"Naperville, IL, United States",-88.1535352,41.7508391
+"15","2/4/2017 13:36:20","Chicago","IL","USA","Yes, for a project",NA,"Chicago, IL, USA",-87.6297982,41.8781136
+"16","2/4/2017 14:34:03","Konstanz",NA,"Germany","Yes, for a project",NA,"Konstanz, NA, Germany",9.1732384,47.6779496
+"17","2/4/2017 14:36:26","Chapel Hill","NC","USA","Yes, for a project",NA,"Chapel Hill, NC, USA",-79.0558445,35.9131996
+"18","2/4/2017 14:36:46","Logansport","Indiana","United States","Yes, for a project",NA,"Logansport, Indiana, United States",-86.3566659,40.7544843
+"19","2/4/2017 14:40:12","Washington","DC","USA","Yes, for a project",NA,"Washington, DC, USA",-77.0368707,38.9071923
+"20","2/4/2017 14:41:59","St. Louis","MO","USA","No",NA,"St. Louis, MO, USA",-90.1994042,38.6270025
+"21","2/4/2017 14:56:45","Christchurch","Canterbury","New Zealand","No",NA,"Christchurch, Canterbury, New Zealand",172.6362254,-43.5320544
+"22","2/4/2017 15:00:22","New York City","New York","USA","No",NA,"New York City, New York, USA",-74.0059413,40.7127837
+"23","2/4/2017 15:09:06","Seattle","WA","USA","Yes, for a project",NA,"Seattle, WA, USA",-122.3320708,47.6062095
+"24","2/4/2017 15:27:15","Indianapolis","Indiana","USA","No",NA,"Indianapolis, Indiana, USA",-86.158068,39.768403
+"25","2/4/2017 16:26:37","Glastonbury","CT","United States","Yes, for a project",NA,"Glastonbury, CT, United States",-72.5450779,41.6861794
+"26","2/4/2017 16:56:25","fredericton","New Brunswick","Canada","Yes, for a project",NA,"fredericton, New Brunswick, Canada",-66.6431151,45.9635895
+"27","2/4/2017 17:01:56","Little Rock","AR","USA","Yes, for a project",NA,"Little Rock, AR, USA",-92.2895948,34.7464809
+"28","2/4/2017 17:21:21","Austin","Texas","United States","Yes, for a project",NA,"Austin, Texas, United States",-97.7430608,30.267153
+"29","2/4/2017 18:07:32","Boston","Massachusetts","United States","No",NA,"Boston, Massachusetts, United States",-71.0588801,42.3600825
+"30","2/4/2017 18:38:39","Chicago","Illinois","USA","No",NA,"Chicago, Illinois, USA",-87.6297982,41.8781136
+"31","2/4/2017 18:40:59","Vancouver","BC","Canada","No",NA,"Vancouver, BC, Canada",-123.1207375,49.2827291
+"32","2/4/2017 20:33:03","Seattle","Washington","USA","Yes, for a project",NA,"Seattle, Washington, USA",-122.3320708,47.6062095
+"33","2/4/2017 20:47:12","Delhi","Delhi","India","No",NA,"Delhi, Delhi, India",77.1024902,28.7040592
+"34","2/4/2017 22:16:41","Dubai","Dubai","United Arab Emirates","Yes, to the playground",NA,"Dubai, Dubai, United Arab Emirates",55.2707828,25.2048493
+"35","2/4/2017 22:36:43","San Mateo","CA","USA","Yes, for a project",NA,"San Mateo, CA, USA",-122.3255254,37.5629917
+"36","2/5/2017 10:27:54","Louisville","KY","USA","Yes, to the playground",NA,"Louisville, KY, USA",-85.7584557,38.2526647
+"37","2/5/2017 11:23:46","Bloomington","IN","USA","No",NA,"Bloomington, IN, USA",-86.5263857,39.165325
+"38","2/5/2017 12:37:09","Stockholm",NA,"Sweden","No",NA,"Stockholm, NA, Sweden",18.0517112,59.3322187
+"39","2/5/2017 12:38:18","Austin","Texas","United States","No",NA,"Austin, Texas, United States",-97.7430608,30.267153
+"40","2/5/2017 12:39:03","Minneapolis","Minnesota","United States of America","No",NA,"Minneapolis, Minnesota, United States of America",-93.2650108,44.977753
+"41","2/5/2017 12:42:55","Santa Fe","NM","USA","No",NA,"Santa Fe, NM, USA",-105.937799,35.6869752
+"42","2/5/2017 12:49:48","Charlotte","NC","United States","Yes, for a project",NA,"Charlotte, NC, United States",-80.8431267,35.2270869
+"43","2/5/2017 12:55:32","Philadelphia","PA","United States","No",NA,"Philadelphia, PA, United States",-75.1652215,39.9525839
+"44","2/5/2017 12:57:00","Grand Haven","Michigan","United States","No",NA,"Grand Haven, Michigan, United States",-86.2283864,43.0630734
+"45","2/5/2017 13:24:37","New York","NY","USA","No",NA,"New York, NY, USA",-74.0059413,40.7127837
+"46","2/5/2017 13:31:42","Brooklyn","NY","USA","No",NA,"Brooklyn, NY, USA",-73.9441579,40.6781784
+"47","2/5/2017 13:39:14","Seattle","WA","United States","Yes, for a project",NA,"Seattle, WA, United States",-122.3320708,47.6062095
+"48","2/5/2017 13:48:00","Boston","MA","United States","No",NA,"Boston, MA, United States",-71.0588801,42.3600825
+"49","2/5/2017 14:01:17","Boston","MA","USA","No",NA,"Boston, MA, USA",-71.0588801,42.3600825
+"50","2/5/2017 15:52:00","Greensboro","NC","United States","No",NA,"Greensboro, NC, United States",-79.7919754,36.0726354
+"51","2/5/2017 16:11:05","Chicago","IL","US","No",NA,"Chicago, IL, US",-87.6297982,41.8781136
+"52","2/5/2017 17:11:18","New York","NY","USA","No",NA,"New York, NY, USA",-74.0059413,40.7127837
+"53","2/5/2017 19:16:52","Atlanta","GA","USA","No","*move to SF, CA in June","Atlanta, GA, USA",-84.3879824,33.7489954
+"54","2/6/2017 6:14:12","Arlington","VA","USA","No",NA,"Arlington, VA, USA",-77.0909809,38.8816208
+"55","2/6/2017 6:36:46","Washington","D.C.","USA","No",NA,"Washington, D.C., USA",-77.0368707,38.9071923
+"56","2/6/2017 6:55:06","Milwaukee","Wisconsin","USA","No",NA,"Milwaukee, Wisconsin, USA",-87.9064736,43.0389025
+"57","2/6/2017 8:36:47","Linville","VA","United States","No",NA,"Linville, VA, United States",-78.8375257,38.5204001
+"58","2/6/2017 8:58:53","Austin","TX","USA","No",NA,"Austin, TX, USA",-97.7430608,30.267153
+"59","2/6/2017 11:17:48","Washington","DC","USA","Yes, for a project",NA,"Washington, DC, USA",-77.0368707,38.9071923
+"60","2/6/2017 12:49:36","Denver","Colorado","United States","No",NA,"Denver, Colorado, United States",-104.990251,39.7392358
+"61","2/7/2017 1:01:14","New York","NY","US","Yes, for a project",NA,"New York, NY, US",-74.0059413,40.7127837
+"62","2/7/2017 2:15:33","Como","Lombardia","Italy","No",NA,"Como, Lombardia, Italy",9.0851765,45.8080597
+"63","2/7/2017 5:21:55","Centreville","Virginia","United States","No",NA,"Centreville, Virginia, United States",-77.4288769,38.8403909
+"64","2/7/2017 7:13:24","Cordova",NA,"United States","No",NA,"Cordova, NA, United States",-97.3531033,40.7172296
+"65","2/7/2017 13:25:50","SF Bay Area","California","USA","No",NA,"SF Bay Area, California, USA",-122.2913078,37.8271784
+"66","2/8/2017 0:14:55","Edmonton","Alberta","Canada","Yes, to the playground",NA,"Edmonton, Alberta, Canada",-113.4909267,53.544389
+"67","2/8/2017 7:53:36","Hong Kong",NA,"China","No",NA,"Hong Kong, NA, China",114.2109318,22.4162632
+"68","2/8/2017 8:55:00","Brooklyn","New York","United States","No",NA,"Brooklyn, New York, United States",-73.9441579,40.6781784
+"69","2/8/2017 13:40:48","Orlando","FL","USA","Yes, for a project",NA,"Orlando, FL, USA",-81.3792365,28.5383355
+"70","2/8/2017 23:04:44","Austin","TX","USA","No",NA,"Austin, TX, USA",-97.7430608,30.267153
+"71","2/9/2017 9:41:58","New York","NY","USA","No",NA,"New York, NY, USA",-74.0059413,40.7127837
+"72","2/9/2017 10:02:04","Boston","MA","United States","No",NA,"Boston, MA, United States",-71.0588801,42.3600825
+"73","2/9/2017 10:11:51","Nashville","TN","United States","Yes, for a project",NA,"Nashville, TN, United States",-86.7816016,36.1626638
+"74","2/9/2017 10:40:08","Fremont","CA","USA","No",NA,"Fremont, CA, USA",-121.9885719,37.5482697
+"75","2/9/2017 10:46:08","Wellington","Florida","United States","No",NA,"Wellington, Florida, United States",-80.2683571,26.6617635
+"76","2/9/2017 12:06:35","Columbus","OH","United States","Yes, for a project",NA,"Columbus, OH, United States",-82.9987942,39.9611755
