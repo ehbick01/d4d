@@ -1,0 +1,50 @@
+---
+date: "March 31, 2017"
+output: 
+  rmarkdown::html_document:
+    theme: null
+    highlight: null
+    css: ../assets/css/rmarkdown/posts.css
+---
+
+```{r setup}
+
+# libraries
+library(rJava)
+library(tabulizer)
+library(tidyverse)
+
+```
+```{r file-upload}
+
+# Set working directory one level up
+setwd('../')
+path <- getwd()
+
+# Build list of pdf files
+disclosures <- paste0(path, 
+                      '/disclosures/', 
+                      list.files('../disclosures/'))
+
+```
+
+```{r data-payload}
+
+## Build Function to Grab Income Table
+income_grabber <- function(x) { 
+  
+  text <- x %>% 
+  extract_tables()
+  
+  try(table2 <- text[[2]] %>% 
+    as_data_frame() %>% 
+    filter(V1 != "") %>% 
+    mutate(Filer = gsub('.pdf', '', gsub('C:/Users/Eric/Google Drive/Github/d4d/financial-disclosures/disclosures/', '',
+                                         x))))
+
+}
+
+# Grab incomes
+incomes <- lapply(disclosures, income_grabber)
+
+```
